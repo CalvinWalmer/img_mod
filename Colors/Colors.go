@@ -3,6 +3,7 @@ package Colors
 import (
 	"fmt"
 	"image"
+	_ "image/jpeg"
 	_ "image/png" // import this package to decode PNGs
 	"os"
 )
